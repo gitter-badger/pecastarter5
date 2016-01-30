@@ -1,26 +1,28 @@
 PecaStarter5
 ============
 
-ŠT—v
---------
-PeerCast‚Å‚Ì”zM‚ğ•â•‚·‚éƒc[ƒ‹‚Å‚·B
+[![Join the chat at https://gitter.im/peca-dev/pecastarter5](https://badges.gitter.im/peca-dev/pecastarter5.svg)](https://gitter.im/peca-dev/pecastarter5?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-“®ìŠÂ‹«
+æ¦‚è¦
 --------
-Windows XP SP3ˆÈã
+PeerCastã§ã®é…ä¿¡ã‚’è£œåŠ©ã™ã‚‹ãƒ„ãƒ¼ãƒ«ã§ã™ã€‚
+
+å‹•ä½œç’°å¢ƒ
+--------
+Windows XP SP3ä»¥ä¸Š
 .NET Framework 4 Client Profile
-PeerCast-IM ‚Ü‚½‚Í PeerCast Station
+PeerCast-IM ã¾ãŸã¯ PeerCast Station
 
-g‚¢•û
+ä½¿ã„æ–¹
 --------
-PeerCast‚ª‹N“®‚³‚êAWindows Media Encoder‚Ü‚½‚ÍKTE“™‚ÌƒGƒ“ƒR[ƒh‚ªŠJn‚³‚ê‚Ä‚¢‚é‚±‚Æ‚ğŠm”F‚µ‚Ü‚·B
-î•ñ‚ğ“ü—Í‚µA”zMŠJnƒ{ƒ^ƒ“‚ğ‰Ÿ‚·‚ÆƒŠƒŒ[‚ªŠJn‚³‚ê‚Ü‚·B
+PeerCastãŒèµ·å‹•ã•ã‚Œã€Windows Media Encoderã¾ãŸã¯KTEç­‰ã®ã‚¨ãƒ³ã‚³ãƒ¼ãƒ‰ãŒé–‹å§‹ã•ã‚Œã¦ã„ã‚‹ã“ã¨ã‚’ç¢ºèªã—ã¾ã™ã€‚
+æƒ…å ±ã‚’å…¥åŠ›ã—ã€é…ä¿¡é–‹å§‹ãƒœã‚¿ãƒ³ã‚’æŠ¼ã™ã¨ãƒªãƒ¬ãƒ¼ãŒé–‹å§‹ã•ã‚Œã¾ã™ã€‚
 
-ƒTƒ|[ƒg
+ã‚µãƒãƒ¼ãƒˆ
 --------
-* [ÅV”Å‚Ìƒ_ƒEƒ“ƒ[ƒh](https://github.com/progre/pecastarter5-bin/archive/master.zip)
-* [Šù’m‚Ì•s‹ï‡ˆê——](https://github.com/progre/pecastarter5/issues)
-* [ƒ\[ƒXƒR[ƒh](https://github.com/progre/pecastarter5/)
-* [‚Õ‚ë‚®‚ê ƒ|[ƒ^ƒ‹ƒTƒCƒg](http://www.prgrssv.net/)
+* [æœ€æ–°ç‰ˆã®ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰](https://github.com/progre/pecastarter5-bin/archive/master.zip)
+* [æ—¢çŸ¥ã®ä¸å…·åˆä¸€è¦§](https://github.com/progre/pecastarter5/issues)
+* [ã‚½ãƒ¼ã‚¹ã‚³ãƒ¼ãƒ‰](https://github.com/progre/pecastarter5/)
+* [ã·ã‚ãã‚Œ ãƒãƒ¼ã‚¿ãƒ«ã‚µã‚¤ãƒˆ](http://www.prgrssv.net/)
 
 <djyayutto@gmail.com>
